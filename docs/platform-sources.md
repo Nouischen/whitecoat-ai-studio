@@ -8,3 +8,5 @@
 - https://code.claude.com/docs/en/desktop-quickstart — 桌面Code分頁、Local、Open folder、登入與方案提示；桌面Code不需另裝Node.js或CLI。
 
 介面或方案可能更新，以官方頁與本人帳號顯示為準。教材不保證所有裝置外觀相同。
+
+- https://code.claude.com/docs/en/desktop#choose-a-permission-mode — 模式選單在輸入框下方；Manual逐項核准、Plan唯讀規劃，舊名Ask permissions。
