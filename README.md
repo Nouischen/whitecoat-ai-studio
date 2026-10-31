@@ -2,7 +2,8 @@
 
 三天完成第一課：訪談本人、保留自己的文章、試寫與新對話讀回。Codex 或 Claude Code 擇一即可。
 
-- **[下載第一課固定範本 v1.0.0](https://github.com/Nouischen/whitecoat-ai-studio/releases/download/v1.0.0/my-ai-studio-v1.0.0.zip)**
+- [給AI讀取的初始化說明 v1.0.1](BOOTSTRAP.md)
+- 人工備援：**[下載第一課固定範本 v1.0.0](https://github.com/Nouischen/whitecoat-ai-studio/releases/download/v1.0.0/my-ai-studio-v1.0.0.zip)**
 - [安裝與卡關說明](INSTALL.md)
 - [第一天 LINE 訊息](line/day1.txt)
 - [第二天 LINE 訊息](line/day2.txt)
@@ -14,7 +15,9 @@
 
 ## 快速開始
 
-下載 ZIP → 解壓縮 → 把裡面的「我的AI工作室」放進電腦「文件」→ 在其中一個 AI 工具選這個資料夾 → 按三天教材操作。
+安裝並登入其中一個桌面AI程式 → 在「文件」準備並選定「我的AI工作室」資料夾 → 貼第一天的準備指令 → AI下載固定範本、解壓縮並核對 → 開始訪談。
+
+已經有工作室的人沿用原資料夾，AI只補缺件。手動下載解壓縮保留為工具受限時的備援。
 
 下載包只包含文字範本和說明，沒有安裝程式，不需 Git、Python、Node.js 或 API 金鑰。下載公開範本不需要 GitHub 帳號。請不要點 Fork、不要把填完的個人資料提交到這個公開儲存庫。
 
