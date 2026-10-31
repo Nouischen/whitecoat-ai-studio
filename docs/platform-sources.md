@@ -10,3 +10,6 @@
 介面或方案可能更新，以官方頁與本人帳號顯示為準。教材不保證所有裝置外觀相同。
 
 - https://code.claude.com/docs/en/desktop#choose-a-permission-mode — 模式選單在輸入框下方；Manual逐項核准、Plan唯讀規劃，舊名Ask permissions。
+
+- https://learn.chatgpt.com/docs/permission-modes — 輸入框下方的權限選單；Ask for approval可讀寫目前工作室，模式可能受版本或組織限制。
+- https://learn.chatgpt.com/docs/app/slash-commands — 在輸入框輸入斜線後從清單選指令；/plan切換規劃模式。
