@@ -32,7 +32,7 @@ https://github.com/Nouischen/whitecoat-ai-studio
 
 【Claude Code】
 安裝並登入 Claude 桌面 App → Code 分頁 → 輸入框下方選 Local → 旁邊的資料夾選單 Open folder… → 選「我的AI工作室」
-需要帳號可使用 Code。輸入框下方若顯示 Plan，點模式選單改成 Manual（舊版叫 Ask permissions），讓它提出修改後由你確認。若出現升級或登入提示，先依官方說明處理
+Claude Code 需要支援此功能的付費方案；若已有可用的 Codex，可直接選 Codex，不必為本課多訂一套。輸入框下方若顯示 Plan，點模式選單改成 Manual（舊版叫 Ask permissions），讓它提出修改後由你確認。若出現升級或登入提示，先依官方說明處理
 官方安裝與起步：https://code.claude.com/docs/en/desktop-quickstart
 
 介面名稱可能稍有不同。重點是選到這台電腦上的工作室資料夾。工具要求確認變更時，確認路徑在「我的AI工作室」裡再同意。選錯資料夾就回到上述資料夾選單重選；不要靠對話裡打路徑來換位置

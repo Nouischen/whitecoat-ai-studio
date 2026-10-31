@@ -18,7 +18,7 @@
 
 從 [官方起步頁](https://code.claude.com/docs/en/desktop-quickstart) 下載並登入 Claude 桌面 App。點 Code 分頁，在輸入框下方選 Local，再從旁邊資料夾控制項選 Open folder…，選「我的AI工作室」。
 
-若沒有 Code、出現升級或登入提示，依官方起步頁處理；需要支援 Code 的帳號。這次要存檔。輸入框下方若顯示 Plan，點模式選單改成 Manual（舊版叫 Ask permissions），逐項核准修改。Plan 只規劃。暫時無法使用 Code，可改走已能登入的 Codex 路線，或先準備答案與文章，等工具可用再存檔。使用 Code 分頁不用另裝 Node.js 或終端機 CLI。
+若沒有 Code、出現升級或登入提示，依官方起步頁處理；Claude Code 需要支援此功能的付費方案。若已有可用的 Codex，不必為本課多訂另一套。這次要存檔。輸入框下方若顯示 Plan，點模式選單改成 Manual（舊版叫 Ask permissions），逐項核准修改。Plan 只規劃。暫時無法使用 Code，可改走已能登入的 Codex 路線，或先準備答案與文章，等工具可用再存檔。使用 Code 分頁不用另裝 Node.js 或終端機 CLI。
 
 ## 已有同名工作室
 
