@@ -1,4 +1,8 @@
-# 白袍 AI 工作室｜讓 AI 認識我
+# 白袍 AI 工作室
+
+[第二課｜讓 AI 操作瀏覽器](lessons/02-browser/README.md) · [第二課三天 LINE 訊息](lessons/02-browser/LINE.md)
+
+## 第一課｜讓 AI 認識我
 
 三天完成第一課：訪談本人、保留自己的文章、試寫與新對話讀回。Codex 或 Claude Code 擇一即可。
 
