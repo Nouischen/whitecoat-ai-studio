@@ -1,31 +1,10 @@
-# 教師備用
+# 第二課講師備忘｜側欄與多分頁
 
-共同題觀察答案：從 API 文件點 Get started → Quickstart，找到「Create and export an API key」及「Create an API Key」連結。
+投影時先指兩處：Chrome 上方寫網站名稱的分頁標題，以及網頁旁可以打字的 AI 側欄。先讓學員看到網頁真的從 API 文件首頁跳到 Quickstart 的「Create and export an API key」，再開 Models，示範怎麼把第二頁交給同一段對話。
 
-可貼：「請從官方 API 文件找建立金鑰的說明與入口，停在說明頁；不進後台、不建立金鑰。」
+- **Claude**：側欄可讀目前頁。要跨頁，先認出第一頁所在的 Claude 群組，示範「按住 Models 標題 → 水平拖進既有群組 → 放開 → 兩頁同色」。已在同一組就直接核對。拖不準用標題右鍵選既有群組；沒有群組時，請 Claude 自己在新分頁開 Models。群組名稱、顏色可能變動。[Claude 官方說明](https://support.claude.com/en/articles/12012173-get-started-with-claude-in-chrome) · [Chrome 群組操作](https://www.google.com/chrome/tips/)
+- **ChatGPT**：回到開啟側欄的第一頁，在同一段對話提及已開啟的 Models。網頁版可從輸入框「＋」選分頁或輸入 @Chrome。若帳號或介面一次只能選一頁，示範在同一段對話分兩次讀取、最後一起整理。出現網站權限提示時只授權練習所需網站。[側欄與提及分頁](https://learn.chatgpt.com/docs/chrome-extension) · [網頁版 Chrome 入口](https://help.openai.com/en/articles/20001277-using-the-built-in-browser-in-the-chatgpt-desktop-app)
+- **全班怎麼核對**：看第一頁真的跳到金鑰標題，再請 AI 從兩頁各抄一個小標。點回兩頁核對內容。一次排錯後仍不能操作的同學跟著投影看。[API 首頁](https://developers.openai.com/api/docs) · [Quickstart](https://developers.openai.com/api/docs/quickstart) · [Models](https://developers.openai.com/api/docs/models)
+- **生活例子**：請從迪士尼新加坡郵輪官網查指定月份、兩名成人可選的航次。若兩頁皆已開啟，就比較出發日和停靠港。排隊或需要登入時停下，最後由本人決定訂位、付款。[官方航次查詢說明](https://disneycruise.disney.go.com/en/faq/booking-reservations/cruise-search/)
 
-郵輪可貼：「請開迪士尼新加坡航線，點 View Cruises，依我指定月份、兩名成人查航次，停在可選航次或艙房頁；排隊或需登入就停下回報，不填旅客資料、不確認訂位、不付款，由我接手。」
-
-卡住一次就改老師投影示範，不加作業。
-
-驗證界線：主代理已走 API 找頁；郵輪點擊後實遇官方等候室，未取得航次或價格。本輪未執行 Claude、ChatGPT 雙套學員 UI，不能保證每個帳號都能完成。
-
-## 官方網址
-
-Claude 安裝說明：
-https://support.claude.com/en/articles/12012173-get-started-with-claude-in-chrome
-
-ChatGPT 瀏覽器說明：
-https://help.openai.com/en/articles/20001277-using-the-built-in-browser-in-the-chatgpt-desktop-app
-
-API 文件：
-https://developers.openai.com/api/docs
-
-Quickstart：
-https://developers.openai.com/api/docs/quickstart
-
-迪士尼新加坡航線：
-https://disneycruise.disney.go.com/en-sg/cruises-destinations/itineraries/singapore-singapore/
-
-航次查詢說明：
-https://disneycruise.disney.go.com/en/faq/booking-reservations/cruise-search/
+本版核對官方說明與兩個公開練習頁。示範前可用授課帳號試走一次，確認當天分頁選單與授權畫面；本次 Work 設定停用本機瀏覽器操作，未在兩套學員帳號跑完整流程。
