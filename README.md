@@ -1,6 +1,6 @@
 # 白袍 AI 工作室
 
-[第二課｜讓 AI 操作瀏覽器](lessons/02-browser/README.md) · [第二課三天 LINE 訊息](lessons/02-browser/LINE.md)
+[第二課｜衛教影片上架單：一堂課帶做](lessons/02-handoff/LINE.md) · [可重用的工作流程與範例](lessons/02-handoff/WORKFLOW.md)
 
 ## 第一課｜讓 AI 認識我
 
