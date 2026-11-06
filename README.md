@@ -1,6 +1,6 @@
 # 白袍 AI 工作室
 
-[第二課｜衛教影片上架單：一堂課帶做](lessons/02-handoff/LINE.md) · [可重用的工作流程與範例](lessons/02-handoff/WORKFLOW.md)
+[第二課｜在 Chrome 請 AI 幫你找到要用的頁面](lessons/02-chrome/LINE.md)
 
 ## 第一課｜讓 AI 認識我
 

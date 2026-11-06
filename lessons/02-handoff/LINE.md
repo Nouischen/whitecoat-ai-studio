@@ -1,4 +1,6 @@
-# 第二課｜把衛教影片交給助理上架
+# 延伸練習｜把衛教影片交給助理上架
+
+[第二課從這裡開始：用 Chrome 擴充功能找頁面](../02-chrome/LINE.md)
 
 一堂約 20–30 分鐘，第一次安裝擴充功能的時間另計。依序貼以下三則到 LINE，每個框可以整段複製。
 
@@ -54,4 +56,3 @@ https://help.openai.com/en/articles/20001277-using-the-built-in-browser-in-the-c
 要用同一個擴充功能填講師表單、找英文網站的 API 用量頁、查迪士尼門票，或把自己的影片傳到 YouTube，可直接複製模板最下面的示範指令：
 https://github.com/Nouischen/whitecoat-ai-studio/blob/v1.2.0/lessons/02-handoff/WORKFLOW.md
 ```
-
