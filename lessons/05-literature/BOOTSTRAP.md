@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/Nouischen/whitecoat-ai-studio/lesson-05-v1.0.0
 
 | 檔案 | SHA-256 |
 | --- | --- |
-| `WORKFLOW.md` | `3fe1c68f1b093c49cb088ce7fcab3223fd8f6af287b5cd359c4a06ba4dbc0eba` |
+| `WORKFLOW.md` | `ba3513bdf8d1ccba3e1cb0f167d674a61e6cc8874866f333ce538c4d5b9ac223` |
 | `check_doi.py` | `8a40885332927d5e0edd45763b4906da177163d63e6f65ef86699f3fa7727629` |
 | `open_doi.py` | `b4b5cbe727d74637a7d776b74184a84fcb2e563ee4cd399bda4a9f4b81808f04` |
 | `make_word.py` | `70c0b3e80d587e72567b4f502b6400cc5ff10de99fdad2dd109c396c03c5546d` |
