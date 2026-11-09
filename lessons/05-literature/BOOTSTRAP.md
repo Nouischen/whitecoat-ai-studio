@@ -14,10 +14,10 @@ https://raw.githubusercontent.com/Nouischen/whitecoat-ai-studio/lesson-05-v1.0.0
 
 | 檔案 | SHA-256 |
 | --- | --- |
-| `WORKFLOW.md` | `ba3513bdf8d1ccba3e1cb0f167d674a61e6cc8874866f333ce538c4d5b9ac223` |
+| `WORKFLOW.md` | `75240ecccff071020ef98d5cccf8d4ddc9939595417c9ee60e4b5516992ebf36` |
 | `check_doi.py` | `8a40885332927d5e0edd45763b4906da177163d63e6f65ef86699f3fa7727629` |
 | `open_doi.py` | `b4b5cbe727d74637a7d776b74184a84fcb2e563ee4cd399bda4a9f4b81808f04` |
-| `make_word.py` | `70c0b3e80d587e72567b4f502b6400cc5ff10de99fdad2dd109c396c03c5546d` |
+| `make_word.py` | `56d35db3007dec4e928c2b03d5f3f6e7c01ad4fd34a9aba5f8f2f5c9d2be187d` |
 
 ## 安裝與重複執行
 

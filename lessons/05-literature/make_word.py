@@ -36,6 +36,20 @@ def add_text(parent, value):
         text.text = part
 
 
+def reject_extra_effects(ref, sentences):
+    # Keep quantitative estimates tied to quantitative claims. Topics, citations and
+    # study years need not prevent a doctor from citing a qualitative result.
+    numbered_claim = any(re.search(
+        r"[0-9０-９]|百分之|[零一二兩三四五六七八九十百千半]+(?:成|倍|分|天|日|週|周|月|年|小時|分鐘|人|例|毫)",
+        sentence) for sentence in sentences)
+    effect = re.search(
+        r"(?i)\b(?:HR|RR|OR|SMD|MD|ARR|NNT|CI)\s*[:=：]?\s*[\[(]?\s*\d"
+        r"|\d+(?:\.\d+)?\s*[%％]|(?:風險比|危險比|勝算比|置信區間|信賴區間|hazard ratio|odds ratio|risk ratio)\s*[:=：]?\s*[\[(]?\s*\d",
+        ref["support"])
+    if effect and not numbered_claim:
+        raise ValueError("原句只談方向。請在 support 留下研究對象、比較、結果方向與出處，移除額外的效果量或信賴區間，再以同一份原稿產檔。")
+
+
 def package(source, plan):
     raw = source.read_bytes()
     if plan["source_sha256"].lower() != hashlib.sha256(raw).hexdigest():
@@ -79,6 +93,7 @@ def package(source, plan):
         seen_dois.add(doi.casefold())
         if not ref["bibliography"].strip() or not ref["support"].strip():
             raise ValueError("書目和支持依據不可空白。")
+        reject_extra_effects(ref, [c["sentence"] for c in claims if n in c["refs"]])
         paragraph(f"[{n}] {ref['bibliography']}")
         url = "https://doi.org/" + urlquote(doi, safe="/:;()._-")
         rid = f"rId{n}"
