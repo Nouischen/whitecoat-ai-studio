@@ -2,6 +2,8 @@
 
 [第二課｜在 Chrome 請 AI 幫你找到要用的頁面](lessons/02-chrome/LINE.md)
 
+[第五課｜在自己的工作室，說一句話把整篇衛教文做成文獻版](lessons/05-literature/LINE.md)
+
 ## 第一課｜讓 AI 認識我
 
 三天完成第一課：訪談本人、保留自己的文章、試寫與新對話讀回。Codex 或 Claude Code 擇一即可。
